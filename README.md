@@ -1,1 +1,5 @@
 # IOS-The_Santa_Claus_Problem
+
+The Santa Claus problem is stated in [7] as follows: “Santa Claus sleeps at the North Poleuntil awakened by either all of the nine reindeer, or by a group of three out of ten elves. Hethen performs one of two indivisible actions. If awakened by the group of reindeer, Santaharnesses them to a sleigh, delivers toys, and finally unharnesses the reindeer who then goon vacation. If awakened by a group of elves, Santa shows them into his office, consults withthem on toy R&D, and finally shows them out so they can return to work constructing toys.A waiting group of reindeer must be served by Santa before a waiting group of elves. SinceSanta’s time is extremely valuable, marshaling the reindeer or elves into a group must not bedone by Santa.”   
+
+(PDF) Solving the Santa Claus Problem: a Comparison of Various Concurrent Programming Techniques. Available from: https://www.researchgate.net/publication/221004442_Solving_the_Santa_Claus_Problem_a_Comparison_of_Various_Concurrent_Programming_Techniques [accessed Jun 03 2024].
